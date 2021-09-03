@@ -2,7 +2,7 @@
 
 ### 👀 Current intrests ...
 - Learning React / React Native development
-- Learning more advanced Python
+- Learning more advanced C++
 
 ---
 
