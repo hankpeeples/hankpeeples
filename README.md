@@ -1,8 +1,9 @@
-## 👋 Hi, I’m Hank Peeples
+## 👋 Hi, I’m Henry Peeples
 
 ### 👀 Current intrests ...
 - Learning React / React Native development
 - Learning more advanced C++
+- Learning TypeScript 
 
 ---
 
