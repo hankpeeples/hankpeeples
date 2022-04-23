@@ -1,14 +1,13 @@
 ## 👋 Hi, I’m Henry Peeples
 
 ### 👀 Current intrests ...
-- Learning more advanced C++
-- Learning C and Bash
-- Learning Go (GoLang)
+- Learning more advanced Java
+- Learning GoLang
 
 ---
 
 ### 🎓 College
-- I am attending the University of North Texas in pursuit of a degree in computer science
+- I am a senior at the University of North Texas in pursuit of a degree in computer science.
 
 ---
 
@@ -16,3 +15,4 @@
 - JavaScript
 - Java
 - C++
+- C
