@@ -10,5 +10,4 @@
 ### 📝 Languages I am comfortable in ...
 - JavaScript
 - Java
-- C++
-- C
+- C/C++
