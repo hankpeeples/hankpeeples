@@ -1,6 +1,6 @@
-<h3 align='center'>
+<h2 align='center'>
   👋 Hi, I’m Henry (or Hank) Peeples
-</h3>
+</h2>
 
 </br>
 
