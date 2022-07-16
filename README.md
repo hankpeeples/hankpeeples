@@ -35,7 +35,7 @@ University of North Texas
 ### 📈 Stats
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankpeeples&hide=stars&count_private=true&show_icons=true&theme=dracula)
 </br>
-![Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrypeeples&layout=compact&langs_count=10)
+![Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrypeeples&layout=compact&langs_count=10&hide=ObjectiveC,Bash,GitIgnore)
 
 ### 🤝 Collaborations
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TylerAdamMartinez&repo=Optimal-Accessibility)](https://github.com/TylerAdamMartinez/Optimal-Accessibility)
