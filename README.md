@@ -4,8 +4,10 @@
 
 </br>
 
-### 🎓 Education
-University of North Texas
+### 👨‍🎓 Education
+I am a senior at the University of North Texas studying Computer Science.
+
+</br>
 
 ### ⚒️ Tools | Frameworks | etc...
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
