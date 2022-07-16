@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Henry (or Hank) Peeples
+<h3 align='center'>
+  👋 Hi, I’m Henry (or Hank) Peeples
+</h3>
+
+</br>
 
 ### 🎓 Education
 University of North Texas
@@ -6,14 +10,11 @@ University of North Texas
 ### ⚒️ Tools | Frameworks | etc...
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</br>
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-</br>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -33,6 +34,8 @@ University of North Texas
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankpeeples&hide=stars&count_private=true&show_icons=true&theme=dracula)
 </br>
 ![Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrypeeples&layout=compact&langs_count=10&hide=ObjectiveC,Bash,GitIgnore)
+</br>
 
 ### 🤝 Collaborations
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TylerAdamMartinez&repo=Optimal-Accessibility)](https://github.com/TylerAdamMartinez/Optimal-Accessibility)
+
