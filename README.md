@@ -2,12 +2,12 @@
   👋 Hi, I’m Henry (or Hank) Peeples
 </h2>
 
-</br>
+<br>
 
 ### 👨‍🎓 Education
 I am a senior at the University of North Texas studying Computer Science.
 
-</br>
+<br>
 
 ## ⚒️ Tools | Frameworks | etc...
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
@@ -22,8 +22,6 @@ I am a senior at the University of North Texas studying Computer Science.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</br>
-
 ## Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,14 +29,12 @@ I am a senior at the University of North Texas studying Computer Science.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-</br>
+<br>
 
 ## 📈 Stats
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankpeeples&hide=stars&count_private=true&show_icons=true&theme=dracula)
 </br>
 ![Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrypeeples&layout=compact&langs_count=10&hide=ObjectiveC,Bash,GitIgnore)
-
-</br>
 
 ## 🤝 Collaborations
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TylerAdamMartinez&repo=Optimal-Accessibility)](https://github.com/TylerAdamMartinez/Optimal-Accessibility)
