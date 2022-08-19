@@ -7,6 +7,8 @@
 ### 👨‍🎓 Education
 I am a senior at the University of North Texas studying Computer Science.
 
+Visit my personal [website](https://henrypeeples.web.app/)!
+
 <br>
 
 ## ⚒️ Tools | Frameworks | etc...
