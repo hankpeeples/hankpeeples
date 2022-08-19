@@ -9,6 +9,8 @@ I am a senior at the University of North Texas studying Computer Science.
 
 Visit my personal [website](https://henrypeeples.web.app/)!
 
+View my [Resume](https://github.com/hankpeeples/hankpeeples/files/9385440/Henry.s.Resume.pdf)!
+
 <br>
 
 ## ⚒️ Tools | Frameworks | etc...
