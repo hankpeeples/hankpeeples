@@ -7,6 +7,8 @@
 ### 👨‍🎓 Education
 I am a senior at the University of North Texas studying Computer Science.
 
+Currently working as an Associate Application Developer for Collin College.
+
 Visit my personal [website](https://henrypeeples.web.app/)!
 
 <br>
