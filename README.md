@@ -5,7 +5,7 @@
 <br>
 
 ### 👨‍🎓 Education
-I am a senior at the University of North Texas studying Computer Science.
+Graduated with a degree in Computer Science from the University of North Texas in December 2023.
 
 Currently working as an Associate Application Developer for Collin College.
 
